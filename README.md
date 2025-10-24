@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   
-  <h3 align="center">Sahayak (UNDER DEVELOPMEN)</h3>
+  <h3 align="center">Sahayak (UNDER DEVELOPMENT)</h3>
 
   <p align="center">
   </p>
