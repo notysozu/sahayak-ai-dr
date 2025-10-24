@@ -19,9 +19,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
   <h3 align="center">Sahayak (UNDER DEVELOPMENT)</h3>
-
   <p align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/notysozu/sahayak-ai-dr/refs/heads/main/assets/1.png" />
+</p>
   </p>
 </div>
